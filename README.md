@@ -1,5 +1,12 @@
-API RESTful
-Proposta do exercicio realizado: 
+API REST com:
+✔ Spring Boot
+✔ Spring Data JPA
+✔ Banco de dados H2
+✔ Consultas personalizadas
+✔ Lombok e Lazy/Eager Loading
+✔ Logs de SQL no console
+
+Proposta do projeto realizado: 
 Crie uma nova entidade chamada Pessoa com os seguintes atributos:
 • id: identificador único do produto (tipo Long)
 • nome: nome do produto (tipo String)
